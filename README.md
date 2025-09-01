@@ -12,7 +12,6 @@ The workflow includes:
 * Implementing regression and classification models
 * Evaluating model performance
 
----
 
 ##  Dataset
 
@@ -23,7 +22,6 @@ The dataset used is **`customer_churn.csv`**, which contains customer informatio
 * Billing details (monthly charges, total charges, tenure)
 * Target variable: **Churn (Yes/No)**
 
----
 
 ## Technologies Used
 
@@ -32,7 +30,7 @@ The dataset used is **`customer_churn.csv`**, which contains customer informatio
 * **Matplotlib & Seaborn** → Data visualization
 * **Scikit-learn** → Machine learning models
 
----
+
 
 ##  Data Manipulation
 
@@ -41,7 +39,6 @@ The dataset used is **`customer_churn.csv`**, which contains customer informatio
 * Sampled random records
 * Counted churn distribution
 
----
 
 ##  Data Visualization
 
@@ -50,7 +47,7 @@ The dataset used is **`customer_churn.csv`**, which contains customer informatio
 * **Scatter Plot** → Tenure vs. Monthly Charges
 * **Box Plot** → Contract type vs. Tenure
 
----
+
 
 ## Machine Learning Models
 
@@ -79,7 +76,7 @@ The dataset used is **`customer_churn.csv`**, which contains customer informatio
   * Target: Churn
   * Features: Tenure, Monthly Charges
 
----
+
 
 ## Results
 
